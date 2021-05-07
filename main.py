@@ -1,14 +1,14 @@
-# Setup
+
 yes_no = ["yes", "no"]
 directions = ["left", "right", "forward", "backward"]
  
-# Introduction
+
 name = input("What is your name, adventurer?\n")
 print("Greetings, " + name + ". Let us go on a quest!")
 print("You find yourself on the edge of a dark forest.")
 print("Can you find your way through?\n")
  
-# Start of game
+
 response = ""
 while response not in yes_no:
     response = input("Would you like to step into the forest?\nyes/no\n")
@@ -20,7 +20,7 @@ while response not in yes_no:
     else: 
         print("I didn't understand that.\n")
  
-# Next part of game
+
 response = ""
 while response not in directions:
     print("To your left, you see a bear.")
