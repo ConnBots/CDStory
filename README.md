@@ -10,5 +10,5 @@ Third, When in the correct file, run **python main.py**
 
 Then you should be good to go!
 
-
+**NOTICE: You need Python to run this application.**
 
