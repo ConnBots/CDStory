@@ -2,13 +2,11 @@
 
 Welcome to CDStory, a fun action pased game that runs right in your Command Prompt!
 
-To Start, download the package by going to the code download. 
+To Start, download the package by going to the code releases.
 
-Second, Unzip the file and navigate to the file in your command prompt.
+Second, Unzip the file and navigate to the python file. (main.py)
 
-Third, When in the correct file, run **python main.py** 
-
-Then you should be good to go!
+Third, Just click on the main.py file, It will then open the application in pythons command prompt.
 
 **NOTICE: You need Python to run this application.**
 
